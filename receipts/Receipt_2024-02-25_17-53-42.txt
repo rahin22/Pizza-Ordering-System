@@ -1,0 +1,4 @@
+Molte Benne Pizzeria Order Receipt 
+Order Details: 
+Small Peperoni pizza $7
+Total Price:  $7

@@ -1,0 +1,8 @@
+Molte Benne Pizzeria Order Receipt 
+Order Details: 
+Small pizza
+with a Deep Pan crust
+Tomato sauce
+and Mozerella cheese
+with the following toppings: Peperoni None Peperoni Peperoni Peperoni Peperoni Peperoni Peperoni Peperoni Peperoni Mushrooms
+Total: $12

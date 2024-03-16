@@ -1,0 +1,5 @@
+Molte Benne Pizzeria Order Receipt 
+Order Details: 
+Small Peperoni pizza $7
+Medium Cheese pizza $14
+Total Price:  $21
